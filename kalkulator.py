@@ -5,4 +5,8 @@ def dodawanie():
     b = int(input())
     print(a+b)
 
+def getinfo():
+    print("to jest prosty kalkulator")
+
+getinfo()
 dodawanie()
